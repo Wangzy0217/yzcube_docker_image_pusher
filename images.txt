@@ -1,5 +1,5 @@
-nginx
-db
+#nginx
+#db
 weaviate
 worker
 api
